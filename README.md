@@ -7,7 +7,7 @@
   <p align='center'>
   <a href="https://jackevans.dev"><img height="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/jackevans_dev"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>&nbsp;&nbsp;
-  <a href="https://https://www.instagram.com/jack-evans-b4379315a"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/jack-evans-b4379315a/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>&nbsp;&nbsp;
   <a href="https://instagram.com/_jackre/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>&nbsp;&nbsp;
    
 </div>
