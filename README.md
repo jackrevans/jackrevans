@@ -29,7 +29,7 @@
 <p>🌱 I’m currently learning everything 🤣</p>
 <p>👯 I’m looking to collaborate with other developers</p>
 <p>🥅 2020 Goals: Contribute more to Open Source projects</p>
-<p>⚡ Fun fact: I love to game 🎮 </p>
+<p>⚡ Fun fact: I love NFL 🏈 and gaming 🎮 </p>
 
 </div>
 <!-- ABOUT:END -->
